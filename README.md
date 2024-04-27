@@ -337,7 +337,7 @@ curl https://raw.githubusercontent.com/gh0stzk/dotfiles/master/RiceInstaller -o 
 
 # Maybe you want a short url??
 
-curl -L https://is.gd/gh0stzk_dotfiles -o $HOME/RiceInstaller
+curl -L https://is.gd/JDDMR03_dotfiles -o $HOME/RiceInstaller
 ```
 - **Now give it execute permissions**
 ```sh
