@@ -283,7 +283,7 @@ fi
 if command -v google-chrome-stable >/dev/null 2>&1; then
     printf "\n%s%sGoogle Chrome is already installed%s\n" "${BLD}" "${CGR}" "${CNC}"
 else
-    printf "\n%s%sInstalling Google-Chrome, this should be fast!%s\n" "${BLD}" "${CBL}" "${CNC}"
+    printf "\n%s%sInstalling Google Chrome, this should be fast!%s\n" "${BLD}" "${CBL}" "${CNC}"
     paru -S google-chrome --skipreview --noconfirm
 fi
 
