@@ -26,7 +26,7 @@ Calendar,OpenApps --calendar,/usr/share/icons/Papirus/32x32/apps/office-calendar
 
 ^tag(wm)
 Change Theme,OpenApps --rice,/usr/share/icons/Papirus/32x32/apps/colors.svg
-Keybinds,KeybindingsHelp,/usr/share/icons/Papirus/32x32/apps/preferences-desktop-keyboard-shortcuts.svg
+Keybinds,OpenApps --KeyHelp,/usr/share/icons/Papirus/32x32/apps/preferences-desktop-keyboard-shortcuts.svg
 Restart WM,bspc wm -r,/usr/share/icons/Papirus/32x32/apps/system-reboot.svg
 Quit,bspc quit,/usr/share/icons/Papirus/32x32/apps/system-log-out.svg
 
