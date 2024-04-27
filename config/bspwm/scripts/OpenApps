@@ -50,16 +50,10 @@ case "$1" in
         thunar
         ;;
     --browser)
-        firefox
+        google-chrome-stable
         ;;
     --editor)
-        geany
-        ;;
-    --telegram)
-        telegram-desktop
-        ;;
-    --whats)
-        whatsdesk --disable-gpu
+        subl
         ;;
     --soundcontrol)
         pavucontrol
