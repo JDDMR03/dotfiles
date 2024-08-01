@@ -7,7 +7,7 @@
 #  ╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝    ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 #   Script to install my dotfiles
 #   Author: z0mbi3
-#   url: https://github.com/gh0stzk
+#   url: https://github.com/JDDMR03
 
 CRE=$(tput setaf 1)
 CYE=$(tput setaf 3)
@@ -39,7 +39,7 @@ logo () {
 	       &&&////   &&
 	          &&//@@@**
 	            ..***
-    z0mbi3 Dotfiles\n\n"
+    JDDMR03 Dotfiles\n\n"
     printf ' %s [%s%s %s%s %s]%s\n\n' "${CRE}" "${CNC}" "${CYE}" "${text}" "${CNC}" "${CRE}" "${CNC}"
 }
 
@@ -118,7 +118,7 @@ fi
 
 logo "Downloading dotfiles"
 
-repo_url="https://github.com/gh0stzk/dotfiles"
+repo_url="https://github.com/JDDMR03/dotfiles"
 repo_dir="$HOME/dotfiles"
 
 # Verifies if the folder of the repository exists, and if it does, deletes it
